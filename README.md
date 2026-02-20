@@ -21,13 +21,13 @@ IP DNB (IP Dossier & Blocker) extracts IP addresses from log files, validates th
 ```
 ip_dnb/
 ├── src/
-│   ├── ip_dnb/
-│   │   ├── __init__.py
-│   │   ├── main.py          # Main application logic
-│   └── schemas.py           # Data schemas
-├── blocked_ips.json         # TinyDB database of blocked IPs
+│   └── ip_dnb/
+│       ├── __init__.py
+│       └── main.py          # Main application logic
+├── blocked_ips.json         # TinyDB database of blocked IPs, [NOTE: CREATED AT RUNTIME]
 ├── pyproject.toml           # Project configuration
-└── README.md                # This file
+├── README.md                # This file
+└── requirements.txt         # Required for pip installation process
 ```
 
 ## Dependencies
