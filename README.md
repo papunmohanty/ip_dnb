@@ -81,10 +81,10 @@ Run the application with log file paths:
 python -m src.ip_dnb.main /path/to/logfile1.log /path/to/logfile2.log
 ```
 
-Or using Typer:
+Or using Existing Application log file available under `data/app1.log` & `data/app2.log`
 
 ```bash
-python -m src.ip_dnb.main --help
+python -m src.ip_dnb.main data/app1.log data/app2.log
 ```
 
 ## Process Flow
