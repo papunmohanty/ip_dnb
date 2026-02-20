@@ -1,0 +1,32 @@
+2025-12-22 08:10:01 [INFO] User login successful from 192.168.1.15
+2025-12-22 08:12:44 [WARN] Failed login from 203.0.113.42
+2025-12-22 08:12:47 [WARN] Failed login from 203.0.113.42
+2025-12-22 08:13:02 [ERROR] SQL injection attempt detected from 198.51.100.17
+2025-12-22 08:14:10 [INFO] Password reset requested from 172.16.0.23
+2025-12-22 08:15:33 [WARN] Failed login from 45.33.32.156
+2025-12-22 08:16:01 [ERROR] Brute force detected from 45.33.32.156
+2025-12-22 08:16:15 [WARN] Failed login from 185.220.101.1
+2025-12-22 08:16:20 [WARN] Failed login from 185.220.101.1
+2025-12-22 08:17:05 [INFO] API access from 34.201.45.67
+2025-12-22 08:18:12 [ERROR] Suspicious payload detected from 103.21.244.12
+2025-12-22 08:19:55 [WARN] Failed login from 103.21.244.12
+2025-12-22 08:20:03 [ERROR] Directory traversal attempt from 222.186.30.45
+2025-12-22 08:21:09 [INFO] Health check from 127.0.0.1
+2025-12-22 08:22:11 [WARN] Failed login from 91.121.83.45
+2025-12-22 08:22:14 [WARN] Failed login from 91.121.83.45
+2025-12-22 08:22:18 [WARN] Failed login from 91.121.83.45
+2025-12-22 08:23:41 [ERROR] XSS attempt detected from 175.45.176.3
+2025-12-22 08:24:05 [INFO] Static asset served to 8.8.8.8
+2025-12-22 08:25:33 [WARN] Failed login from 185.220.101.45
+2025-12-22 08:26:12 [ERROR] Credential stuffing detected from 45.77.65.211
+2025-12-22 08:27:49 [INFO] User logout from 192.168.1.15
+2025-12-22 08:28:01 [WARN] Failed login from 123.58.180.7
+2025-12-22 08:28:10 [ERROR] Brute force detected from 123.58.180.7
+2025-12-22 08:29:34 [INFO] API access from 52.14.23.90
+2025-12-22 08:30:12 [ERROR] Suspicious token usage from 46.161.27.89
+2025-12-22 08:31:03 [WARN] Failed login from 198.18.0.23
+2025-12-22 08:32:45 [ERROR] Multiple invalid sessions from 103.214.20.141
+2025-12-22 08:33:21 [INFO] User login successful from 10.0.0.8
+2025-12-22 08:34:10 [WARN] Failed login from 185.220.101.1
+2025-12-22 08:35:19 [ERROR] Remote code execution attempt from 175.45.177.5
+2025-12-22 08:36:02 [INFO] Metrics collection from 127.0.0.1
