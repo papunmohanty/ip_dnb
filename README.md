@@ -1,6 +1,6 @@
 # IP DNB - IP Geolocation & Blocking Analysis
 
-A Python application that analyzes log files to identify and block suspicious IP addresses based on geolocation and network privacy indicators.
+IP Address Detect and Block, a Python application that analyzes log files to identify and block suspicious IP addresses based on geolocation and network privacy indicators.
 
 ## Overview
 
